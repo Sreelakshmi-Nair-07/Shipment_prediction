@@ -37,7 +37,7 @@ Predict the next booking date and shipment type for each company based on histor
    ```
 3. **Install Dependencies**:
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn pyyaml
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 4. **Run the Notebook**:
    - Open `shipement_prediction.ipynb` in Jupyter Notebook, VS Code, or Google Colab.
